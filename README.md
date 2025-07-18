@@ -53,7 +53,7 @@ sudo ./antimac -c en0 00:11:22:33:44:55
 
 ## Credits
 
-- Authors: [@vvrmatos](https://github.com/vvrmatos) and [@spacemany2k38](https://github.com/spacemany2k38)
+- Authors: [@vvrmatos](https://github.com/vvrmatos) (aka [@spacemany2k38](https://github.com/spacemany2k38))
 - Millennium Hawk: “Special modifications” included.
 
 ---
